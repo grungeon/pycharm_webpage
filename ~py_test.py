@@ -1,2 +1,1 @@
-import sys
-import io
+print 'just a test'
